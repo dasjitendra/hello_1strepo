@@ -1,0 +1,29 @@
+.container{
+    color: red;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 59px;
+    
+}
+.row{
+    margin: 8px 0;
+    text-align: center;
+}
+.row input{
+    margin: 5px;
+    padding: 18px 52px;
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+
+.rowA{
+    margin: 11px;
+   
+    
+}
